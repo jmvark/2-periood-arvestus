@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>II perioodi arvestustöö - Ülesanne 2 - POST päring</title>
+    <title>II perioodi arvestustöö - Ülesanne 3 - POST päring</title>
   </head>
 
   <body>

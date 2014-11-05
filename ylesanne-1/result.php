@@ -12,7 +12,7 @@
    
     	if ($_GET["age"] > 18) {
     		echo "Tere {$username}! Olete lehekülje vaatamiseks piisavalt vana";
-    	}elseif ($_GET["age"] < 18) {
+    	}elseif ($age < 18) {
     		echo "Tere {$username}! Olete lehekülje vaatamiseks liiga noor";
     	}
     ?>
